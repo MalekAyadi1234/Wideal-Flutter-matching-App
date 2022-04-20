@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440000703452",
+    "project_id": "servicedelivery-1908c",
+    "storage_bucket": "servicedelivery-1908c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440000703452:android:0b4ac26f57619698dfbd19",
+        "android_client_info": {
+          "package_name": "com.mybestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440000703452-a1pmdrbku2pkfntm3dl8s137ksft2eek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUA9xtU9OQaA2vOonNYVpHaardLAD_zKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440000703452-a1pmdrbku2pkfntm3dl8s137ksft2eek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
