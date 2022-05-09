@@ -553,7 +553,7 @@ _buttonAll(double windowWidth, double squareScale, double height,
               height: height * squareScale,
               margin: EdgeInsets.only(bottom: height * 0.15),
               child: Image.asset(
-                "assets/all.png",
+                "",
                 fit: BoxFit.contain,
                 color: theme.colorDefaultText,
               ))),

@@ -94,9 +94,9 @@ class GreetingWidget extends StatelessWidget {
                 child: Padding(
                   padding: EdgeInsets.all(2.0),
                   child: SpaceLetter(
-                    name: 'DIVYAM',
+                    name: 'WiDeal',
                     fontsize: 14,
-                    width: 200,
+                    width: 1,
                     height: 30,
                     opacity: 0.4,
                     iconsize: 20,

@@ -266,11 +266,11 @@ Map<int, String> langFrench = {
   321 : "Annuler la commande",
   322 : "Non",
   //
-  1010: "Restaurants",
+  1010: "Offres",
   1082: "Vous pouvez ajouter au panier, uniquement les produits d'un seul restaurant. Voulez-vous réinitialiser le panier? Et ajouter un nouveau produit.",
   1142: "Vous aimez le restaurant?",
   1143: "Comment évalueriez-vous ce restaurant?",
-  1200: "Meilleurs restaurants de la semaine",
+  1200: "Meilleurs offres de la semaine",
   1247: "Prise en charge au restaurant",
   1259: "Le Restaurant:",
   1267: "Restaurant",

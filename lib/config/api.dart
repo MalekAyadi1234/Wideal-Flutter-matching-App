@@ -1,4 +1,4 @@
-final String _path = "http://192.168.56.1/adminpanel/";
+final String _path = "http://192.168.1.23/adminpanel/";
 // final String _path = "https://www.abg-studio.com/markets/";
 // final String _path = "https://www.abg-studio.com/market_admin/";
 // final String _path = "https://www.abg-studio.com/vmarkets_admin/";

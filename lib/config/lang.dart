@@ -367,14 +367,14 @@ class Lang {
     322: "No",
 
     //
-    1010: "Restaurants",
+    1010: "Deals",
     1082:
-        "You can add to cart, only products from single restaurant. Do you want to reset cart? And add new product.",
-    1142: "Enjoying Restaurant?",
-    1143: "How would you rate this Restaurant?",
-    1200: "Top Restaurants this week",
-    1247: "Pickup from restaurant",
-    1259: "The Restaurant: ",
+        "You can add to cart, only products from single Deal. Do you want to reset cart? And add new product.",
+    1142: "Enjoying WiDeal?",
+    1143: "How would you rate this Deal?",
+    1200: "Top Deals this week",
+    1247: "Pickup from WiDeal",
+    1259: " WiDeal: ",
     1267: "Offer",
 
     //
